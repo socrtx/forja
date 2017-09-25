@@ -4,7 +4,7 @@ public class Clazz1 {
     public void m() {
         
     }
-    public void m2() {
+    public void m3() {
         
     }
 }
